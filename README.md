@@ -66,3 +66,8 @@ Example request body:
     ]
 }
 ```
+## Demonstration
+![Screenshot 2024-05-30 at 11 08 58 pm](https://github.com/smidolt/granevo-test/assets/103376685/1865b8fd-2921-461c-bd96-cbd36d421d95)
+
+
+
